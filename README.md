@@ -144,7 +144,7 @@ MIT
 
 ## 👤 Autor
 
-Seu Nome / Sua Organização
+Vitor Santos / Sua Organização
 
 ---
 
